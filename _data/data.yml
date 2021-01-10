@@ -7,184 +7,100 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Özgür Alperen Gezici
+    tagline: Geliştirici
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ozgurgezc@gmail.com
+    website: github.com/ozguralperen #do not add http://
+    github: ozguralperen
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Türkçe
+        level: Anadil
 
-      - idiom: French
-        level: Professional
+      - idiom: İngilizce
+        level: Akademik
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Fransızca
+        level: CEFR B1
 
     interests:
-      - item: Climbing
+      - item: Su Sporları
         link:
 
-      - item: Snowboarding
+      - item: Doğa Bilimleri
         link:
 
-      - item: Cooking
+      - item: Gastronomi
         link:
 
 career-profile:
-    title: Career Profile
+    title: 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Yaşamının her anında farklılığı üretkenliğin odak noktası yapan ve determinist dinamik ilişkiler üzerine
+      kurulu olduğunu düşündüğüm hayattaki neden-sonuç ilişkilerini kovalamayı seven biri olarak C ve C++ dillerine
+      hayran bir geliştirici kimliğine sahip , 1,5 yıl önce mezun oluşumun ardından Kontrol-Otomasyon mühendisliği okumayı 
+      sürdürüyorum.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Kontrol ve Otomasyon Mühendisliği Lisansı
+      university: YTÜ
+      time: 2020-~
+      
+    - degree: Lise
+      university: Pertevniyal Lisesi
+      time: 2015 - 2019
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2017 - Present
+      company: KafeinTech
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        3 yazılım geliştirici olarak kurduğumuz ekipte birlikte ,
+        makine öğrenmesi destekli oyun algoritmaları, .NET çerçevesi üzerinde araçlar, C ile
+        çekirdek seviyesi paketler , C++ ile yapay zeka/derleyiciler üzerine programlar üretiyoruz.
 projects:
-    title: Projects
+    title: Projeler
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Öncelikli olarak C++/C olmak üzere belirli yarışmalara hazırlanmış projeler.
     assignments:
-      - title: Velocity
+      - title: KafeinNeural
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "C++'ta yazılmış çok çekirdek destekli yapay ve evrişimli sinir ağları framework'ü."
 
-      - title: DevStudio
+      - title: Pugy
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "C ve C++'ta yazılmış eğitim teknolojilerinde devrim niteliğinde evrişimli sinir ağları temelli bir genel ağ transfer katmanı protokolü."
 
-      - title: Tempo
+      - title: Skylake
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        tagline: "Modern .Net ile geliştirilmiş bir eğitim kurumu veritabanı."
+        
+      - title: Kafein BigInt
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "x86_64 Assembly ile C/C++ için 1024 bit benzeri büyük tamsayı değerleriyle 32 ve 64 bit işlemcilerde çalışma kütüphanesi."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Beceriler &amp; Uzmanlıklar
 
     toolset:
-      - name: Python & Django
+      - name: C++/C
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: .Net
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name:  Node.JS
+        level: 50%
+
+      - name: HTML5 & CSS & EcmaScript 
+        level: 95%
+
+      - name: x86_64 / x86 Assembly
+        level: 60%
