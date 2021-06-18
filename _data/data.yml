@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Özgür Alperen Gezici
-    tagline: Geliştirici
+    tagline: Student Developer
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,84 +23,81 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Türkçe
-        level: Anadil
+      - idiom: Turkish
+        level: Main
 
-      - idiom: İngilizce
-        level: Akademik
+      - idiom: English
+        level: CEFR C1
 
-      - idiom: Fransızca
+      - idiom: French
         level: CEFR B1
 
     interests:
-      - item: Su Sporları
+      - item: Water Sports
         link:
 
-      - item: Doğa Bilimleri
+      - item: Nature Sciences
         link:
 
-      - item: Gastronomi
+      - item: Gastronomy
         link:
 
 career-profile:
     title: 
     summary: |
-      Yaşamının her anında farklılığı üretkenliğin odak noktası yapan ve determinist dinamik ilişkiler üzerine
-      kurulu olduğunu düşündüğüm hayattaki neden-sonuç ilişkilerini kovalamayı seven biri olarak C ve C++ dillerine
-      hayran bir geliştirici kimliğine sahip , 1,5 yıl önce mezun oluşumun ardından Kontrol-Otomasyon mühendisliği okumayı 
-      sürdürüyorum.
+      I am a university student who is looking excitedly to discover everything behind life, following technology at full speed 'to create innovative things that can go beyond the existing',  and participated in various events and competitions with comprehensive and innovative projects in many fields. 
 education:
-    - degree: Kontrol ve Otomasyon Mühendisliği Lisansı
-      university: YTÜ
+    - degree: Control Engineering
+      university: Yildiz Technical University
       time: 2020-~
       
-    - degree: Lise
-      university: Pertevniyal Lisesi
+    - degree: High School
+      university: Pertevniyal
       time: 2015 - 2019
 experiences:
     - role: Lead Developer
       time: 2017 - Present
-      company: KafeinTech
+      company: kafein.tech
       details: |
-        3 yazılım geliştirici olarak kurduğumuz ekipte birlikte ,
-        makine öğrenmesi destekli oyun algoritmaları, .NET çerçevesi üzerinde araçlar, C ile
-        çekirdek seviyesi paketler , C++ ile yapay zeka/derleyiciler üzerine programlar üretiyoruz.
+        Together in the team we established as 3 software developers,
+         machine learning powered game algorithms, tools on .NET framework , with C
+         kernel-level softwares, with C++ artificial intelligence projects & compiler design projects. 
 projects:
-    title: Projeler
+    title: Projects
     intro: >
-        Öncelikli olarak C++/C olmak üzere belirli yarışmalara hazırlanmış projeler.
+        Projects in many fields, some of which have participated in international competitions and some in national competitions. Mainly C++ , Rust.
     assignments:
-      - title: KafeinNeural
-        link: "#hook"
-        tagline: "C++'ta yazılmış çok çekirdek destekli yapay ve evrişimli sinir ağları framework'ü."
-
-      - title: Pugy
-        link: "#"
-        tagline: "C ve C++'ta yazılmış eğitim teknolojilerinde devrim niteliğinde evrişimli sinir ağları temelli bir genel ağ transfer katmanı protokolü."
-
-      - title: Skylake
-        link: "#"
-        tagline: "Modern .Net ile geliştirilmiş bir eğitim kurumu veritabanı."
+      - title: Pertev
+        link: "https://kod.pardus.org.tr/ozgur/pertev"
+        tagline: "A cross-platform native-performance graphical development infrastructure, via modern web programming technologies , without any javascript engine or browser renderer."
         
-      - title: Kafein BigInt
-        link: "#"
-        tagline: "x86_64 Assembly ile C/C++ için 1024 bit benzeri büyük tamsayı değerleriyle 32 ve 64 bit işlemcilerde çalışma kütüphanesi."
+      - title: Pugy
+        link: "https://github.com/ozguralperen/pugy"
+        tagline: "Revolutionary Online Education/Conference System , New Transfer Protocol Design with Convolutional Neural Networks."
+
+      - title: Llang
+        link: "https://github.com/ozguralperen/llang"
+        tagline: "A programming language for Law & Lawyers , for easily create and format all legal texts."
+        
+      - title: Static.py
+        link: "https://github.com/ozguralperen/static.py"
+        tagline: " A Tiny & Revolutionary Python Compiler Project For Generate Native Static x86_64 Binaries - like C/C++, with c-like annotations."
 
 skills:
-    title: Beceriler &amp; Uzmanlıklar
+    title: Skills
 
     toolset:
-      - name: C++/C
-        level: 98%
-
-      - name: .Net
-        level: 60%
-
-      - name:  Node.JS
-        level: 50%
-
-      - name: HTML5 & CSS & EcmaScript 
+      - name: C++ ~ C++17
         level: 95%
 
-      - name: x86_64 / x86 Assembly
+      - name: Zig
         level: 60%
+
+      - name: Javascript
+        level: 65%
+
+      - name: C# 
+        level: 60%
+
+      - name: Python
+        level: 45%
