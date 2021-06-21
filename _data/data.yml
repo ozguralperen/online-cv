@@ -69,19 +69,19 @@ projects:
     assignments:
       - title: Pertev
         link: "https://kod.pardus.org.tr/ozgur/pertev"
-        tagline: "A cross-platform native-performance graphical development infrastructure, via modern web programming technologies , without any javascript engine or browser renderer."
+        tagline: "A cross-platform native-performance graphical development infrastructure, via modern web programming technologies , without any javascript engine or browser renderer. One layer compiles the HTML/CSS design files as GL calls into a final c++ project that can communicate directly with the hardware for graphics drawing (written in rust) ; another layer transpiles Javascript files to C++ as event methods of these graphic objects , then links everything (written in c++)."
         
       - title: Pugy
         link: "https://github.com/ozguralperen/pugy"
-        tagline: "Revolutionary Online Education/Conference System , New Transfer Protocol Design with Convolutional Neural Networks."
+        tagline: "Revolutionary Online Education/Conference System , New Transfer Protocol Design with Convolutional Neural Networks.Thanks to convolutional neural networks, inter-image reproduction and effective image compression methods are applied to obtain fluent images at low connection speeds. Combined with a library of efficient and relevant small-size neural networks adapted to low-end hardware. "
 
       - title: Llang
         link: "https://github.com/ozguralperen/llang"
-        tagline: "A programming language for Law & Lawyers , for easily create and format all legal texts."
+        tagline: "A programming language for Law & Lawyers , for easily create and format all legal texts. As a research project, it has been designed with javascript-syntax compatibility, enabling the creation of contracts and contracts quickly, effectively and dynamically. "
         
       - title: Static.py
         link: "https://github.com/ozguralperen/static.py"
-        tagline: " A Tiny & Revolutionary Python Compiler Project For Generate Native Static x86_64 Binaries - like C/C++, with c-like annotations."
+        tagline: " A Tiny & Revolutionary Python Compiler Project For Generate Native Static x86_64 Binaries - like C/C++, with c-like annotations. It aims to compile python code containing type specifiers in the form of cython syntax directly to x86 directives, without a linked runtime library or extra functions."
 
 skills:
     title: Skills
@@ -94,10 +94,10 @@ skills:
         level: 60%
 
       - name: Javascript
-        level: 65%
+        level: 70%
 
       - name: C# 
-        level: 60%
+        level: 50%
 
       - name: Python
-        level: 45%
+        level: 65%
